@@ -85,5 +85,3 @@ By following this project, students will learn:
 
 This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
 
-
-Special thanks to the developers and maintainers of the technologies used in this project. Their hard work and dedication make projects like this possible.
